@@ -1,1 +1,3 @@
 # firsttraining
+
+kata kata
